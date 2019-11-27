@@ -18,3 +18,6 @@ Bearing in mind the previous studies against sexual harassment and text mining t
 #https://www.kaggle.com/utathya/imdb-review-dataset#imdb_master.csv
 #http://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences#
 #https://github.com/rmaestre/Sentiwordnet-BC/blob/master/test/testdata.manual.2009.06.14.csv
+
+
+EDIT: Happy to say the team won the best paper award in ECMLPKDD data science workshop. https://sites.google.com/view/ecmlpkddsogood2019/awards?authuser=0
