@@ -9,6 +9,7 @@ The training data for positive class was accquired from [here](https://www.safec
 
 ## Training
 
+The pipeline has two different classifications, one for identifying if the input is a case or not which is done by a SVM classifier. The second classifier makes uses of deep learning, specifically BERT architecture which is hosted on top of a chatbot layer. For the original implementation the chatbot was written using the telegram API. 
 
 
 
