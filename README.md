@@ -1,7 +1,6 @@
+#About
+In this project we try to leverage natural language procesing to help victims of sexual harrasment in the city of Maastricht. This project is a part of my master course work and was done along with 4 other students and professor as our guide. We aim to create a medium through which people could share their misfortunate events in a non judgemental environment. The idea is to create a chatbot that can understand user input related to the event and classify what type of event the user underwent and reply with appropriate information. The bot will not be self contained meaning it can only understand certain thing related to events since the training data was limited. 
 
-As one of the most influential social movements in recent years, \#MeToo has enabled sexual harassment to rise to the surface that usually does not get the attention required. There are various types of sexual harassment such as verbal, physical or non-verbal issues in real life and unfortunately, those are some of the most under-reported criminal offenses. Most victims may not be willing to go to the police or reveal these issues on social media or even people around, although they are affected mentally or physically or both. The reasons for this can be manifold. One of the reasons can be, for example, the feeling of shame or embarrassment
-
-In this nonprofit text mining project, \#MetooMaastricht, we aim to help sexual harassment victims in the city of Maastricht, the Netherlands. Therefore, we come up with the idea of an intelligent tool, namely a chatbot, which can retrieve crucial information from victims’ texts such as the types of harassment as well as the time and location of the event in order to suggest the best set of actions. 
 
 Bearing in mind the previous studies against sexual harassment and text mining techniques; our main research questions were as follows:
 
