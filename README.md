@@ -14,6 +14,8 @@ The structure for the dialog is shown in the image below.
 
 ![Screenshot](dialogue.png)
 
+Further details can be reffered in depth from the [report](https://github.com/balaganeshmohan/-MeTooMaastricht/blob/master/_MeTooMaastrichtReport.pdf) in this repository.
+
 ## Edit
 
 Happy to say the team won the best paper award in ECMLPKDD data science [workshop](https://sites.google.com/view/ecmlpkddsogood2019/awards?authuser=0).
