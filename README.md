@@ -9,14 +9,12 @@ The training data for positive class was accquired from [here](https://www.safec
 
 ## Training
 
-The pipeline has two different classifications, one for identifying if the input is a case or not which is done by a SVM classifier. The second classifier makes uses of deep learning, specifically BERT architecture which is hosted on top of a chatbot layer. For the original implementation the chatbot was written using the telegram API. 
+The pipeline has two different classifications, one for identifying if the input is a case or not which is done by a SVM classifier. The second classifier makes uses of deep learning, specifically BERT architecture which is hosted on top of a chatbot layer. For the original implementation the chatbot was written using the telegram API.
+The structure for the dialog is shown in the image below. 
 
+![Screenshot](dialogue.png)
 
+## Edit
 
-
-#https://www.kaggle.com/utathya/imdb-review-dataset#imdb_master.csv
-#http://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences#
-#https://github.com/rmaestre/Sentiwordnet-BC/blob/master/test/testdata.manual.2009.06.14.csv
-
-
-EDIT: Happy to say the team won the best paper award in ECMLPKDD data science workshop. https://sites.google.com/view/ecmlpkddsogood2019/awards?authuser=0
+Happy to say the team won the best paper award in ECMLPKDD data science workshop. https://sites.google.com/view/ecmlpkddsogood2019/awards?authuser=0
+The chatbot is also being hosted and can be used with this [link](https://safe-maastricht.ddns.net/#/chat).
