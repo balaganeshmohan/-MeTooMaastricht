@@ -16,5 +16,5 @@ The structure for the dialog is shown in the image below.
 
 ## Edit
 
-Happy to say the team won the best paper award in ECMLPKDD data science workshop. https://sites.google.com/view/ecmlpkddsogood2019/awards?authuser=0
+Happy to say the team won the best paper award in ECMLPKDD data science [workshop](https://sites.google.com/view/ecmlpkddsogood2019/awards?authuser=0).
 The chatbot is also being hosted and can be used with this [link](https://safe-maastricht.ddns.net/#/chat).
