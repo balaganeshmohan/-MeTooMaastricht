@@ -5,7 +5,7 @@ In this project we try to leverage natural language procesing to help victims of
 
 ## Data
 
-The training data for positive class was accquired from [here](https://www.safecity.in/). For negative class, random text from around the internet that does not relate to out problem was used. 
+The training data for positive harrasement cases were kinly provided to use by these [folks](https://www.safecity.in/). They are a NGO operating in India and provide help for women in their community. For negative class, random unrelated text were used from websites like IMDB and good reads. 
 
 ## Training
 
